@@ -1,0 +1,12 @@
+{
+  "name": "ilyas-website",
+  "version": "1.0.0",
+  "description": "Node.js web app for Ilyas's website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "web", "app"],
+  "author": "Ilyas",
+  "license": "MIT"
+}
